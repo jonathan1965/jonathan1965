@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kalisa Jonathan
 - 👀 I’m interested in WebDesign and Blockchain technology
-- 🌱 I’m currently learning React Blockchain technology
-- 💞️ I’m looking to collaborate on WebDesign Project
+- 🌱 I’m currently learning Blockchain technology
+- 💞️ I’m looking to collaborate on Blockchain Project
 
 
 <!---
